@@ -10,4 +10,4 @@ BMI Calculator consists of simple logic coupled with a beautiful design. The mai
 [Watch Demo Video Here](https://www.youtube.com/watch?v=4w7KVpC5fMo)
 
 ## Your Feedback
-Please use the BMI Calculator app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
+Please use the BMI Calculator app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible.
